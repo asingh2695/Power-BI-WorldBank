@@ -38,6 +38,7 @@ Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiY2M0NmRmYmEtMzZjYS00YjEzL
 
 ![image](https://github.com/asingh2695/Power-BI-WorldBank/assets/34424599/b9c95861-fd9e-469f-a3be-9a33972233fe)
 
+![image](https://github.com/asingh2695/Power-BI-WorldBank/assets/34424599/a2098016-aa1e-4d2d-a0e8-024220125199)
 
 
 
